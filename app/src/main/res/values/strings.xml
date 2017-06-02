@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApplicationNetWorkManager</string>
+    <string name="personal_app">个人应用</string>
+    <string name="system_app">系统应用</string>
+</resources>
